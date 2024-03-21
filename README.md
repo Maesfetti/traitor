@@ -1,4 +1,8 @@
-Traitor 4
+<<<<<<< HEAD
+Traitor 41
+=======
+# Traitor 41
+>>>>>>> branch1
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
